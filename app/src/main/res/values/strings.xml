@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string-array name = "options_array">
+        <item>Homework</item>
+        <item>Labs</item>
+        <item>Tests</item>
+        <item>Quizzes</item>
+    </string-array>
+</resources>

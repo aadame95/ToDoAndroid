@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app = "http://schemas.android.com/apk/res/android">
+    <!-- Menu items were created and added -->
+    <item
+        android:id="@+id/all_button"
+        android:title="All"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/homework_button"
+        android:title="Homeworks"
+        app:showAsAction="never"
+        />
+    <item
+    android:id="@+id/lab_button"
+    android:title="Labs"
+    app:showAsAction="never"
+    />
+    <item
+    android:id="@+id/test_button"
+    android:title="Tests"
+    app:showAsAction="never"
+    />
+    <item
+    android:id="@+id/quiz_button"
+    android:title="Quizzes"
+    app:showAsAction="never"
+    />
+</menu>
